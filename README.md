@@ -11,31 +11,31 @@ This repository is organized into folders, each representing a specific topic I'
 
 ### Topics Covered:
 
-1. [**Introduction to JavaScript**](./1-Introduction-to-JS/README.md)  
+1. [**Introduction to JavaScript**](./01-Introduction-to-JS/README.md)  
    Learn about JavaScript, its history, features, and why it's essential for web development.
 
-2. [**Variables and Data Types**](./2-Variables-and-Data-Types/README.md)  
+2. [**Variables and Data Types**](./02-Variables-and-Data-Types/README.md)  
    Understand how to declare variables using `var`, `let`, and `const`, and explore the various data types available in JavaScript.
 
-3. [**Operators and Conditional Statements**](./3-Operators-and-Conditional-Statements/README.md)  
+3. [**Operators and Conditional Statements**](./03-Operators-and-Conditional-Statements/README.md)  
    Discover JavaScript operators and control the flow of your code using conditional statements like `if`, `else`, and `switch`.
 
-4. [**Loops and Strings**](./4-Loops-and-Strings/README.md)  
+4. [**Loops and Strings**](./04-Loops-and-Strings/README.md)  
    Master iterative processes with loops and manipulate text effectively with JavaScript strings.
 
-5. [**Functions and Methods**](./5-Functions-and-Methods/README.md)  
+5. [**Functions and Methods**](./05-Functions-and-Methods/README.md)  
    Learn to write reusable code with functions and explore built-in JavaScript methods.
 
-6. [**DOM (Document Object Model)**](./6-DOM/README.md)  
+6. [**DOM (Document Object Model)**](./06-DOM/README.md)  
    Understand how to interact with and manipulate web pages dynamically using the DOM.
 
-7. [**Events**](./7-Events/README.md)  
+7. [**Events**](./07-Events/README.md)  
    Handle user interactions such as clicks, mouse movements, and keyboard inputs with JavaScript event listeners.
 
-8. [**Tic Tac Toe Game**](./8-Tic-Tac-Toe-Game/README.md)  
+8. [**Tic Tac Toe Game**](./08-Tic-Tac-Toe-Game/README.md)  
    A practical project to build a fully functional Tic Tac Toe game using JavaScript.
 
-9. [**Rock Paper Scissors Project**](./9-Rock-Paper-Scissors-Project/README.md)  
+9. [**Rock Paper Scissors Project**](./09-Rock-Paper-Scissors-Project/README.md)  
    Implement the classic Rock Paper Scissors game and improve your understanding of conditional logic.
 
 10. [**Classes and Objects**](./10-Classes-and-Objects/README.md)  
